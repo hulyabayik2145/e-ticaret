@@ -40,4 +40,4 @@ npm run dev
 
 <h2>Ekran Görüntüsü</h2>
 
-![](react-eticaret.gif)
+![](react-e-ticaret.gif)
