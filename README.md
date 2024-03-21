@@ -10,15 +10,14 @@ uygun uyarılar gösterilir.
 
 - Vite : Modern Js proje geliştirme deneyimi iyileştirmek için Vite aracı kullanılmıştır.
 
-- Context API :Bileşenler arasında veri paylaşımını kolaylaştırmak için kullanılmıştır.(Urun verilerini ve sepet durumunu yönetmek için
-  )
+- Context API:Bileşenler arasında veri paylaşımını kolaylaştırmak için kullanılmıştır.(Urun verilerini ve sepet durumunu yönetmek için)
 
 - React-router-dom :React projelerinde yönlendirme işlevselliğini sağlayan bir pakettir. Çoklu sayfalar veya SPA'lar (Tek Sayfa Uygulamaları) oluştururken kullanılır.
   react-router-dom, tarayıcı URL'sini dinler ve kullanıcıyı uygun bileşene yönlendirir.
 
   - useState ve useEffect Hooks: Bileşen durumlarını yönetmek ve etkileşimleri işlemek için.
 
-  useLocalStorage Hook: Sepet durumunu yerel depolamada saklamak için kullanılmıştır
+  - useLocalStorage Hook: Sepet durumunu yerel depolamada saklamak için kullanılmıştır
 
 <h2>Kullanımı</h2>
 
