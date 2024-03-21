@@ -24,7 +24,7 @@ uygun uyarılar gösterilir.
 
 - Projeyi klonlayın
 
-git clone https://github.com/kullanici/eticaret-sitesi.git
+git clone https://github.com/kullanici/e-ticaret.git
 
 - Proje Dizinine Gidin
 
